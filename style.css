@@ -1,0 +1,102 @@
+*{
+      margin: 0;
+      padding: 0;
+        -webkit-box-sizing: border-box;
+           -moz-box-sizing: border-box;
+                box-sizing: border-box;
+      }
+body{
+  height:1500px;
+  width: 1300px;
+}
+
+#image_fond{
+  background-image: url("images/payments-banner-graphic.png");
+  height: 350px;
+  width: 100%;
+  padding-top: 0.1em;
+}
+
+
+.B{
+  font-size: 25px;
+  margin-left: 0.5em;
+  /*border: solid white;*/
+  letter-spacing: 0.5em;
+  color: white;
+}
+
+
+a{
+  text-decoration: none;
+  list-style-type: none;
+  color:white;
+  float: right;
+  margin-right: 2em;
+}
+
+h1{
+  color: white;
+  font-size:25px;
+  text-align: center;
+}
+
+p{
+  color:white;
+  margin-top: 1.5em;
+
+}
+
+nav{
+  text-align: center;
+}
+
+button{
+  background-color: white;
+  color: grey;
+  border: none;
+  border-radius: 0.2em;
+  width: 15em;
+  height: 2em;
+  margin-top: 2em;
+}
+
+.sous_header{
+  height:280px;
+}
+
+.images{
+  width:33%;
+  float: left;
+  text-align: center;
+  margin-top: 3em;
+  border-right: 1px solid #A9A9A9;
+  border-bottom: 1px solid #A9A9A9;
+  padding-bottom: 2em;
+}
+
+h2{
+  color:grey;
+}
+
+.sous_images{
+  color:grey;
+}
+
+#section2{
+  background-color:#F0FFF0;
+  height: 250px;
+}
+
+h3{
+  text-align: center;
+  color: grey;
+  padding-top: 40px;
+}
+
+.div_fonce{
+  background-color: grey;
+  height:2em;
+  text-align: center;
+  padding-top: 0.2em;
+}
